@@ -49,4 +49,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ILakshitha&theme=monokai)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=ILakshitha&theme=soft-green)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=ILakshitha&theme=green)](https://git.io/streak-stats)
