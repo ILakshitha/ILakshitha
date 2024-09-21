@@ -37,7 +37,6 @@
 <br/>
 
 ## Github Activity ✔
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ILakshitha&theme=monokai)
 
 
 
@@ -48,3 +47,4 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ILakshitha&theme=vue-dark&border_radius=10&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![Ishan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ILakshitha&theme=react-dark)](https://github.com/ILakshitha/github-readme-activity-graph)
