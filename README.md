@@ -43,8 +43,7 @@
 
 
 <div style="display:flex;">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILakshitha&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ILakshitha&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="GitHub Stats" width="35%">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILakshitha&theme=vue-dark&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ILakshitha&theme=vue-dark&border_radius=10&card_width=600&card_height=200)](https://git.io/streak-stats)
