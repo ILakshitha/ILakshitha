@@ -10,6 +10,7 @@
 - 🧑‍🎓 I’m an Undergraduate at **UCSC**
 - 👨‍💻 All of my projects are available at **this Accoount**
 - 📫 How to reach me **ilakshitha7921@gmail.com**
+ 
 - ⚡**Linux_Lover**
 
 ## 💻 Tech Stack
