@@ -17,14 +17,22 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,js,css,laravel,mongodb,mysql,nodejs,react,dart,flutter,py," />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,html,js,css,mysql,nodejs,dart,py,java,latex" />
   </a>
 </p>
+
+Technology
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,laravel,mongodb,react,flutter,aws,gcp,azure,vue,angular,materialui" />
+  </a>
+</p>
+
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,powershell,figma,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,r,visualstudio,wordpress" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,git,powershell,figma,idea,ps,au,pr,vscode,androidstudio,eclipse,postman,selenium,docker,discord,qt,r,visualstudio,wordpress,clion" />
   </a>
 </p>
 <br/>
