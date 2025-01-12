@@ -39,7 +39,6 @@ Technology
 
 ## 🌐 Social Media
 <p align="left">
- 
 <a href="https://www.facebook.com/ishan.lakshitha.5283?mibextid=hIlR13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ishan.lakshitha.5283?mibextid=hIlR13" height="30" width="40" /></a>
 <a href="https://instagram.com/izhan_lakshitha?igshid=MTNiYzNiMzkwZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/izhan_lakshitha?igshid=MTNiYzNiMzkwZA==" height="30" width="40" /></a>
 
@@ -55,5 +54,5 @@ Technology
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILakshitha&theme=vue-dark&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ILakshitha&theme=vue-dark&border_radius=10&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ILakshitha&theme=vue-dark&border_radius=5&card_width=600&card_height=200)](https://git.io/streak-stats)
 [![Ishan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ILakshitha&theme=react-dark)](https://github.com/ILakshitha/github-readme-activity-graph)
